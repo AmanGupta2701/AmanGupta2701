@@ -3,6 +3,8 @@
 - 🌱 I’m currently studying at Delhi Technological University 4th year
 - 💞️ I’m looking to collaborate on periodic mathematical patterns in social beahaviour.
 - 📫 How to reach me dtuamangupta@gmail.com
+                   
+                   www.linkedin.com/in/aman-gupta-dce-2k19
 - 
 
 <!---
