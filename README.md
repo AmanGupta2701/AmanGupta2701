@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AmanGupta2701
 - 👀 I’m interested in programming C++ and Python
-- 🌱 I’m currently studying at Delhi Technological University 4th year
-- 💞️ I’m looking to collaborate on periodic mathematical patterns in social beahaviour.
+- 🌱 I'm currently working as an AI Engineer @Accenture.
+- Completed BTech from Delhi Technological University.
+- 💞️ I’m looking to collaborate on GEN-AI, RAG, NLP, ML
 - 📫 How to reach me dtuamangupta@gmail.com
                    
                    www.linkedin.com/in/aman-gupta-dce-2k19
